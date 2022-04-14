@@ -1,0 +1,4 @@
+packages:
+  - "packages/lib/*"
+  - "packages/apps/*"
+  - "packages/common/*"
